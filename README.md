@@ -6,4 +6,12 @@ To overcome this problem, we provide a solution with a framework called <b>UX Jo
 ![Kerangka Kerja Penelitian-Page-9 (17)](https://user-images.githubusercontent.com/993712/229009784-0f9bf017-2f55-4717-b61b-d2106fbfc56c.svg)
 
 <h2>Start with traditional approach!</h2>
-Elicitation is the crucial activities in the Software Requirement due to the 
+Elicitation is a crucial activity in the Software Requirement due to the success of the project depends on how the developer defines the user requirement. In this repository, we have a light template and sample for the elicitation process suitable for modern software processes like Agile, Scrum, and XP. The structure of the document is seen in the following picture.<br>
+<img width="403" alt="Screenshot 2023-03-31 at 09 56 33" src="https://user-images.githubusercontent.com/993712/229012113-6877e98c-3dc1-47a1-afac-856ad4c1098f.png"><br>
+Description of the document is describe in this list:<br>
+1 Assessment Process - En.docx: The document assessment process involves a systematic evaluation of software documentation to ensure that it meets the necessary standards and requirements.<br>
+2 Template Elicitation Process - Eng.docx: A document template elicitation process refers to the methodology used to identify and define the requirements for a software development project.<br>
+2 Template Elicitation Process Inspection- Eng.docx: A document template elicitation process inspection involves reviewing and analyzing the document templates used in the software development process including the line number.<br>
+3 Elicitation Sample - Eng.docx: Sample of Template Elicitation Process with the content.<br>
+3 Elicitation Sample Inspection- Eng.docx: Sample of Template Elicitation Process with the content for Inspection purposes.<br>
+4 Project Assessment Rubric (For Instructor)- En.docx: A document used by instructors or teachers to assess the projects submitted by students, the rubric outlines the criteria and standards that will be used to evaluate the project and assign a grade.<br>
