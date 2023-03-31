@@ -9,9 +9,11 @@ To overcome this problem, we provide a solution with a framework called <b>UX Jo
 Elicitation is a crucial activity in the Software Requirement due to the success of the project depends on how the developer defines the user requirement. In this repository, we have a light template and sample for the elicitation process suitable for modern software processes like Agile, Scrum, and XP. The structure of the document is seen in the following picture.<br>
 <img width="403" alt="Screenshot 2023-03-31 at 09 56 33" src="https://user-images.githubusercontent.com/993712/229012113-6877e98c-3dc1-47a1-afac-856ad4c1098f.png">
 Description of the document is describe in this list:<br>
-1. Assessment Process - En.docx: The document assessment process involves a systematic evaluation of software documentation to ensure that it meets the necessary standards and requirements.<br>
-2. Template Elicitation Process - Eng.docx: A document template elicitation process refers to the methodology used to identify and define the requirements for a software development project.<br>
-2. Template Elicitation Process Inspection- Eng.docx: A document template elicitation process inspection involves reviewing and analyzing the document templates used in the software development process including the line number.<br>
-3. Elicitation Sample - Eng.docx: Sample of Template Elicitation Process with the content.<br>
-3. Elicitation Sample Inspection- Eng.docx: Sample of Template Elicitation Process with the content for Inspection purposes.<br>
-4. Project Assessment Rubric (For Instructor)- En.docx: A document used by instructors or teachers to assess the projects submitted by students, the rubric outlines the criteria and standards that will be used to evaluate the project and assign a grade.<br>
+<ul>
+<li>1. Assessment Process - En.docx: The document assessment process involves a systematic evaluation of software documentation to ensure that it meets the necessary standards and requirements.</li>
+<li>2. Template Elicitation Process - Eng.docx: A document template elicitation process refers to the methodology used to identify and define the requirements for a software development project.</li>
+<li>2. Template Elicitation Process Inspection- Eng.docx: A document template elicitation process inspection involves reviewing and analyzing the document templates used in the software development process including the line number.</li>
+<li>3. Elicitation Sample - Eng.docx: Sample of Template Elicitation Process with the content.</li>
+<li>3. Elicitation Sample Inspection- Eng.docx: Sample of Template Elicitation Process with the content for Inspection purposes.</li>
+<li>4. Project Assessment Rubric (For Instructor)- En.docx: A document used by instructors or teachers to assess the projects submitted by students, the rubric outlines the criteria and standards that will be used to evaluate the project and assign a grade.</li>
+</ul>  
