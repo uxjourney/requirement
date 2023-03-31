@@ -17,3 +17,5 @@ Description of the document is describe in this list:<br>
 <li>3. Elicitation Sample Inspection- Eng.docx: Sample of Template Elicitation Process with the content for Inspection purposes.</li>
 <li>4. Project Assessment Rubric (For Instructor)- En.docx: A document used by instructors or teachers to assess the projects submitted by students, the rubric outlines the criteria and standards that will be used to evaluate the project and assign a grade.</li>
 </ul>  
+<h2>Enhance with UX Journey!</h2>
+By integrating user experience and user requirements in software development, various benefits can be obtained that are useful for organizations, end-users, and society in general. Therefore, integrating user experience and user requirements is important and useful in the software development process. The current research was conducted to explore answers to the main research question faced in this research, which is how the individual developer uses a socio-technical skill to understand what the user needs from the perspective of the consumer.
